@@ -1,0 +1,22 @@
+{
+    "name": "e27bogdanov/hexlet-php",
+    "description": "learn php with hexlet 2025",
+    "autoload": {
+        "psr-4": {
+            "E27bogdanov\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ebogdanov",
+            "email": "elogim@gmail.com",
+            "role": "student"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "support": {
+        "email": "elogim@gmail.com"
+    }
+}
