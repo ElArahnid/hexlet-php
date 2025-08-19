@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "E27bogdanov\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
@@ -14,9 +17,13 @@
         }
     ],
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.2",
+        "illuminate/collections": "^12.25"
     },
     "support": {
         "email": "elogim@gmail.com"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
     }
 }
