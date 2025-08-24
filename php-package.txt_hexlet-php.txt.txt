@@ -1,0 +1,120 @@
+3,4c3,4
+< Directories                                        561
+< Files                                             4054
+---
+> Directories                                        393
+> Files                                             1612
+7,12c7,12
+<   Lines of Code (LOC)                           440610
+<   Comment Lines of Code (CLOC)                  127059 (28.84%)
+<   Non-Comment Lines of Code (NCLOC)             313551 (71.16%)
+<   Logical Lines of Code (LLOC)                   67945 (15.42%)
+<     Classes                                      65660 (96.64%)
+<       Average Class Length                          20
+---
+>   Lines of Code (LOC)                           258426
+>   Comment Lines of Code (CLOC)                   76236 (29.50%)
+>   Non-Comment Lines of Code (NCLOC)             182190 (70.50%)
+>   Logical Lines of Code (LLOC)                   44682 (17.29%)
+>     Classes                                      44228 (98.98%)
+>       Average Class Length                          27
+15c15
+<       Average Method Length                          4
+---
+>       Average Method Length                          8
+18c18
+<       Average Methods Per Class                      4
+---
+>       Average Methods Per Class                      3
+20,21c20,21
+<         Maximum Methods Per Class                  376
+<     Functions                                     1180 (1.74%)
+---
+>         Maximum Methods Per Class                  143
+>     Functions                                      105 (0.23%)
+23c23
+<     Not in classes or functions                   1105 (1.63%)
+---
+>     Not in classes or functions                    349 (0.78%)
+26,27c26,27
+<   Average Complexity per LLOC                     0.42
+<   Average Complexity per Class                    9.51
+---
+>   Average Complexity per LLOC                     0.43
+>   Average Complexity per Class                   13.10
+30c30
+<   Average Complexity per Method                   2.91
+---
+>   Average Complexity per Method                   4.87
+35,44c35,44
+<   Global Accesses                                 3870
+<     Global Constants                              3700 (95.61%)
+<     Global Variables                                77 (1.99%)
+<     Super-Global Variables                          93 (2.40%)
+<   Attribute Accesses                             24220
+<     Non-Static                                   22576 (93.21%)
+<     Static                                        1644 (6.79%)
+<   Method Calls                                   28148
+<     Non-Static                                   23916 (84.97%)
+<     Static                                        4232 (15.03%)
+---
+>   Global Accesses                                 6113
+>     Global Constants                              6026 (98.58%)
+>     Global Variables                                73 (1.19%)
+>     Super-Global Variables                          14 (0.23%)
+>   Attribute Accesses                             10869
+>     Non-Static                                    8835 (81.29%)
+>     Static                                        2034 (18.71%)
+>   Method Calls                                   12707
+>     Non-Static                                   11712 (92.17%)
+>     Static                                         995 (7.83%)
+47,55c47,55
+<   Namespaces                                       466
+<   Interfaces                                       374
+<   Traits                                            56
+<   Classes                                         2745
+<     Abstract Classes                                99 (3.61%)
+<     Concrete Classes                              2646 (96.39%)
+<       Final Classes                                971 (36.70%)
+<       Non-Final Classes                           1675 (63.30%)
+<   Methods                                        15156
+---
+>   Namespaces                                       236
+>   Interfaces                                       148
+>   Traits                                             4
+>   Classes                                         1437
+>     Abstract Classes                                28 (1.95%)
+>     Concrete Classes                              1409 (98.05%)
+>       Final Classes                                453 (32.15%)
+>       Non-Final Classes                            956 (67.85%)
+>   Methods                                         5680
+57,58c57,58
+<       Non-Static Methods                         13332 (87.97%)
+<       Static Methods                              1824 (12.03%)
+---
+>       Non-Static Methods                          5200 (91.55%)
+>       Static Methods                               480 (8.45%)
+60,70c60,70
+<       Public Methods                             12695 (83.76%)
+<       Protected Methods                           1156 (7.63%)
+<       Private Methods                             1305 (8.61%)
+<   Functions                                       1857
+<     Named Functions                                477 (25.69%)
+<     Anonymous Functions                           1380 (74.31%)
+<   Constants                                       1374
+<     Global Constants                               135 (9.83%)
+<     Class Constants                               1239 (90.17%)
+<       Public Constants                            1078 (87.01%)
+<       Non-Public Constants                         161 (12.99%)
+---
+>       Public Methods                              5138 (90.46%)
+>       Protected Methods                            407 (7.17%)
+>       Private Methods                              135 (2.38%)
+>   Functions                                        112
+>     Named Functions                                 27 (24.11%)
+>     Anonymous Functions                             85 (75.89%)
+>   Constants                                        266
+>     Global Constants                               234 (87.97%)
+>     Class Constants                                 32 (12.03%)
+>       Public Constants                              32 (100.00%)
+>       Non-Public Constants                           0 (0.00%)
